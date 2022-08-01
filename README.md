@@ -38,6 +38,19 @@ Padrões estudados:
   - **lab-padroes-projeto-java:** Aplicação básica na qual foram criadas as classes com as implementações e consumidas em uma Classe de Test.
 
   - **lab-padroes-projeto-spring**: Aplicação desenvolvida utilizando o Framework Spring Boot exemplificando os conceitos de padrões de projetos. Na aplicação foi utilizado o [Swagger](https://swagger.io/) para facilitar as solicitações HttpClient e testar a API.
+  
+  Criação do projeto no [Spring Initializr](https://start.spring.io/)
+  
+    ![Spring Boot - Exemplo para criacao](https://user-images.githubusercontent.com/85805420/182207104-58312a67-8835-4998-a2d3-0bdf03046e7c.JPG)
+
+  
     - Endereço para digitar no navegador e acessar o Swagger: http://127.0.0.1:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+ 
+   ![Swagger](https://user-images.githubusercontent.com/85805420/182206388-65258526-4291-4f65-9d97-b89930568aa9.JPG)
+   
+   
+
+
+    
   
 
